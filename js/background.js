@@ -11,6 +11,14 @@ color: #f5f5f5a8 !important;
 a {
   color: #32395c !important;
 }
+img{
+  opacity: 0.6;
+}
+
+img:hover{
+  opacity: 1;
+}
+
 span.mw-logo-container img {
   background-color: #1c1c1c !important;
   border-radius: 5px;
