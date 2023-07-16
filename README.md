@@ -1,6 +1,7 @@
 # Wikipedia Dark Mode
  Chrome Extension for blacking out Wikipedia.
 
+![Wikipedia-Wikipedia](https://github.com/itsOwn3r/Wikipedia-Dark-Mode/assets/119396660/8c405faf-7446-43a0-8096-6730dd2d6f90)
 
 
 
