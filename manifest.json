@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Dark Mode For Wikipedia",
+    "version": "1.0",
+    "description": "Dark Mode For Wikipedia.",
+    "host_permissions": ["*://*.wikipedia.org/*"],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.wikipedia.org/*"
+            ],
+            "js": [
+                "js/background.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "declarativeContent",
+        "scripting"
+    ],
+    "icons": {
+        "16": "images/icon.png",
+        "32": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    }
+}
