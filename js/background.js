@@ -9,7 +9,7 @@ background-color: #000000 !important;
 color: #f5f5f5a8 !important;
 }
 a {
-  color: #32395c !important;
+  color: #424f8f !important;
 }
 img{
   opacity: 0.6;
